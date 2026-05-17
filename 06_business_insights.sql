@@ -1,0 +1,5 @@
+-- Electronics categories generated highest revenue
+-- Credit card was the most used payment method
+-- Majority customers were one-time buyers
+-- Sao Paulo had highest number of customers
+-- Revenue peaked during specific months
